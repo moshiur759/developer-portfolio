@@ -21,8 +21,9 @@ h3{
       font-weight: 700;
 }
 
-section{
+.flexible-container{
       display: flex;
+      margin-bottom: 100px;
 }
 
 .half-width{
@@ -36,8 +37,15 @@ section{
       background-image: url(images/top-banner.png);
       background-repeat: no-repeat;
 }
-
-
+.dream-skylebel{
+      background-image: url(images/dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right ;
+}
+h2{
+      font-size: 40px;
+      font-weight: bold;
+}
 
 
 
